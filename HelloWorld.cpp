@@ -3,9 +3,7 @@
 using namespace std;
 
 int main(void){
-
-    int t = 8;
-	cout << "Hello World\n";
+	cout << "Hello World memes\n";
 	
 	return 0;
 }
